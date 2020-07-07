@@ -1,0 +1,57 @@
+/*Selector
+ {Property: value;
+
+}*/
+
+html{
+	background: url(backgroundimage11.jpg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+	
+
+body{
+	font-family: 'Dancing Script', cursive;
+	font-size: 25px;
+	color: white;
+}
+h3 {
+	text-align: center;
+	cursor: pointer;
+	
+}
+
+
+.kryssylinks {
+ 	color: white;
+ 	float: right;
+	cursor: pointer;
+	display: inline-block;
+	padding:5px;
+text-decoration: none;
+ }
+
+ .kryssylinks:hover 
+ {
+ 	text-decoration: underline;
+ 	color:purple;
+ }
+
+ 
+  img
+  {
+  	float: left;
+  	margin: 10px;
+  }
+ 
+ 
+
+ 
+ 
+
+
+
+
